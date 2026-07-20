@@ -1,4 +1,4 @@
-![White-Matter-Functional-Connectivity-Gradient](./WM gradient.png)
+![White-Matter-Functional-Connectivity-Gradient](./WM_gradient.png)
 
 # White Matter Functional Connectivity Gradient
 
